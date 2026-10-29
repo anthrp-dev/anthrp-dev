@@ -54,9 +54,4 @@ Tools
 </p>
 
 Git · GitHub · Visual Studio · VS Code · Postman
-📚 Currently Learning
-Backend: ASP.NET Core and API development
-Architecture: Clean Architecture and design patterns
-Quality: Automated testing in .NET
-Web: Angular, TypeScript, and Node.js
 </div>
