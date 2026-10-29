@@ -7,8 +7,10 @@ I build applications with C# and the .NET ecosystem, with a focus on backend dev
 I'm also expanding my skills in web development, connecting backend services, frontend interfaces, and relational databases.
 
 Clean code. Clear structure. Continuous learning.
+
 🧩 Development Principles
 Object-Oriented Programming · SOLID Principles · Clean Code · Layered Architecture
+
 🛠️ Tech Stack
 Backend & Languages
 <p>
@@ -19,6 +21,8 @@ Backend & Languages
 </p>
 
 C# · .NET · Node.js · Python
+
+
 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
@@ -29,6 +33,8 @@ Frontend
 </p>
 
 HTML5 · CSS3 · JavaScript · TypeScript · Angular
+
+
 Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
@@ -36,6 +42,8 @@ Databases
 </p>
 
 SQL Server · MySQL
+
+
 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;&nbsp;
